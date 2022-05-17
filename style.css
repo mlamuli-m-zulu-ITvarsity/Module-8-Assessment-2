@@ -1,0 +1,56 @@
+/*******************TABLE******************/
+
+table{
+    color: #fff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em Arial, Helvetica, sans-serif;
+}
+
+tr{
+    height: 15vh;
+    background-color: #4e494d;
+}
+
+td{
+    width: 25vw;
+    border: 1px solid #4e494d;
+}
+
+/****ANSWER BOX****/
+
+#inputBox{
+    background-color: #4e494d;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    color: #fff;
+    border: 0px;
+}
+
+/**********BUTTONS*************/
+
+.digitButton{
+    background-color: #807e80;
+}
+
+.operatorButton{
+    background-color: #ff9e06;
+}
+
+.ACButton{
+    background-color: #656165;
+}
+
+/*******************HEADING******************/
+
+h2{
+    text-align: center;
+    background-color: #a19ba0;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    margin-bottom: -20px;
+    margin-top: -20px;
+    text-decoration: overline underline;
+    color: rgb(230, 239, 248);
+}
